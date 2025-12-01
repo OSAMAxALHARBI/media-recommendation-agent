@@ -2,6 +2,24 @@
 
 A multi-agent system for discovering and tracking anime, movies, TV shows, and manga with personalized recommendations.
 
+## Table of Contents
+
+- [Problem](#problem)
+- [Solution](#solution)
+- [Architecture](#architecture)
+- [Technical Implementation](#technical-implementation)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Evaluation](#evaluation)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [License](#license)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+---
+
 ## Problem
 
 Managing media consumption across different platforms is fragmented. Searching for content requires visiting multiple sites like TMDB for movies and AniList for anime. Tracking progress manually in spreadsheets is tedious. Generic recommendations on streaming platforms do not account for personal preferences.
